@@ -1,1 +1,2 @@
-# ST3
+# Vanilla-vite-template
+
